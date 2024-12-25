@@ -221,7 +221,7 @@ with ab.summary.FileWriter(logdir="./log", static="./static") as writer:
 [AI & Robot Comprehensive Search](http://www.deepnlp.org/search) <br>
 [AI & Robot Question](http://www.deepnlp.org/question) <br>
 [AI & Robot Community](http://www.deepnlp.org/community) <br>
-[AI Agent Marketplace Blog](http://deepnlp.org/blog/ai-agent-marketplace-and-search-portal-reviews-2025) <br>
+[AI Agent Marketplace Blog](http://www.deepnlp.org/blog/ai-agent-marketplace-and-search-portal-reviews-2025) <br>
 ### AI Services Reviews and Ratings <br>
 ##### AI Agent
 [Microsoft AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-microsoft-ai-agent) <br>
