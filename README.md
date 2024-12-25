@@ -214,6 +214,14 @@ with ab.summary.FileWriter(logdir="./log", static="./static") as writer:
 
 
 ## Agents Related Pipeline Workflow and Document
+#### AI Agent Marketplace and Search
+[AI Agent Marketplace and Search](http://www.deepnlp.org/search/agent) <br>
+[Robot Search](http://www.deepnlp.org/search/robot) <br>
+[Equation and Academic search](http://www.deepnlp.org/search/equation) <br>
+[AI & Robot Comprehensive Search](http://www.deepnlp.org/search) <br>
+[AI & Robot Question](http://www.deepnlp.org/question) <br>
+[AI & Robot Community](http://www.deepnlp.org/community) <br>
+[AI Agent Marketplace Blog](http://deepnlp.org/blog/ai-agent-marketplace-and-search-portal-reviews-2025) <br>
 ### AI Services Reviews and Ratings <br>
 ##### AI Agent
 [Microsoft AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-microsoft-ai-agent) <br>
@@ -273,7 +281,6 @@ with ab.summary.FileWriter(logdir="./log", static="./static") as writer:
 [BMW i4](http://www.deepnlp.org/store/pub/pub-bmw-i4) <br>
 [Baidu Apollo Reviews](http://www.deepnlp.org/store/pub/pub-baidu-apollo) <br>
 [Hyundai IONIQ 6](http://www.deepnlp.org/store/pub/pub-hyundai-ioniq-6) <br>
-
 ### Related Blogs <br>
 [AgentBoard AI Agent Visualization Toolkit](http://www.deepnlp.org/blog/agentboard-ai-agent-visualization-toolkit-agent-loop-workflow) <br>
 [DeepNLP AI Agents Designing Guidelines](http://www.deepnlp.org/blog?category=agent) <br>
